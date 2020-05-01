@@ -10,3 +10,5 @@ Game Launcher Guide
 
 
 ![Capture](https://user-images.githubusercontent.com/59322298/80831833-2d820c00-8bf4-11ea-9801-748818e479ab.JPG)
+
+![Capture](https://user-images.githubusercontent.com/59322298/80832288-0841cd80-8bf5-11ea-98e6-d171fbd58d82.JPG)
