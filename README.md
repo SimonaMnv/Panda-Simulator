@@ -9,3 +9,4 @@ Game Launcher Guide
   4. Launch game.
 
 
+![Capture](https://user-images.githubusercontent.com/59322298/80831833-2d820c00-8bf4-11ea-9801-748818e479ab.JPG)
