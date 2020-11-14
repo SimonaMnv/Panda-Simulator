@@ -1,5 +1,5 @@
-# Panda-Simulator
--- Item Database System via GUI -- 
+# Pa(n)da Simulator
+-- Game item retrieval via GUI -- 
 
 Game Launcher Guide
   1. Download and open XAMPP. Enable APACHE and mySQL.
